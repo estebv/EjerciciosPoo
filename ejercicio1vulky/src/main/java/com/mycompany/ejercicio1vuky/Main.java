@@ -13,10 +13,9 @@ public class Main {
         pedrito.tocarPiano("hi");
         pedrito.caminar();
         System.out.println("Pedro tiene el color de pelo"
-                + pedrito.informacionGlobal.getColorP() + "se llama"
-                + pedrito.informacionGlobal.getNombre() + "y tiene"
-                + pedrito.informacionGlobal.getEdad() + "años");
-
+        + pedrito.informacionGlobal.getcolorPelo() + "se llama"
+        + pedrito.informacionGlobal.getNombre() + "y tiene"
+        + pedrito.informacionGlobal.getEdad() + "años");
         Pepita pepota = new Pepita();
         ModeloPersona informacionPepita = new ModeloPersona();
         informacionPepita.setColorP("rubia");
@@ -24,9 +23,6 @@ public class Main {
         informacionPepita.setEdad(28);
         pepota.llenarInformacion(informacionPedro);
         pepota.caminar();
-        pepota.tocarFlauta("");
-        
-
+        pepota.tocarFlauta("lola");
     }
-
 }
