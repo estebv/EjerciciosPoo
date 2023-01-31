@@ -10,17 +10,17 @@ public class Persona implements AccionPersona {
 
     @Override
     public void caminar() {
-        System.out.print("cojo");
+        System.out.println("cojo");
     }
 
     @Override
     public void saltar() {
-           System.out.print("con un pie");
+           System.out.println("con un pie");
     }
 
     @Override
     public void gritar() {
-           System.out.print("sin lengua");
+           System.out.println("sin lengua");
 
     }
 }

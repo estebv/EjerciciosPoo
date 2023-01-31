@@ -8,10 +8,10 @@ public class ModeloPersona{
  private  String nombre;
  private int edad;
 
-    public String getcolorPelo() {
+    public String getColorPelo() {
         return colorPelo;
     }
-    public void setColorP(String colorPelo) {
+    public void setColorPelo(String colorPelo) {
         this.colorPelo = colorPelo;
     }
     public String getNombre() {
