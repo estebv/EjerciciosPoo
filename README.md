@@ -17,14 +17,16 @@ Esteban Vanegas A.
 -----------------------------
 
 exercisespoo
+
 It is an exercise where the following concepts are touched:
 
-inheritance (implementation and extension)
-builders
-overload
-instances
-class = attribute
-potting
+-inheritance (implementation and extension)
+-builders
+-overload
+-instances
+-class = attribute
+-potting
+
 Author
 
 Esteban Vanegas A.
