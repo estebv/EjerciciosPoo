@@ -2,7 +2,7 @@
 
 Es un ejercicio donde se tocan los siguientes conceptos:
 
-- herencia(implementacion y extencion)
+- herencia(implementación y extención)
 - constructores
 - sobrecarga
 - instancias
@@ -11,5 +11,20 @@ Es un ejercicio donde se tocan los siguientes conceptos:
 
 
 autor 
+
+Esteban Vanegas A.
+
+-----------------------------
+
+exercisespoo
+It is an exercise where the following concepts are touched:
+
+inheritance (implementation and extension)
+builders
+overload
+instances
+class = attribute
+potting
+Author
 
 Esteban Vanegas A.
